@@ -1,6 +1,6 @@
 # Databases-He Chun
 # Week [3]
-
+？？？？
 ### Assignment 2
 SELECT * FROM example 
 ![screenshot](schreenshot-file-name.png)
@@ -29,10 +29,14 @@ and airport.type = "large_airport";
 ![3 2](https://github.com/user-attachments/assets/433e5731-25b1-4733-badc-9ea1388882f0)
 
 #3
-select country.name as "country name", airport.name as "airport name"
+select country.name as country_name, airport.name as airport_name
 from airport, country
-where airport.iso_country = country.iso_country and country.name = "Iceland";
-![3 3](https://github.com/user-attachments/assets/3de89ca7-83b6-42e2-91e6-8d68322f6a0a)
+where airport.iso_country = country.iso_country and country.continent = "AN";
+![3 3](https://github.com/user-attachments/assets/23bb71a6-6e48-4d04-af18-98bec8a05b7c)
+
+#4
+
+
 
 # Week [4]
 
