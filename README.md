@@ -1,4 +1,4 @@
-# Databases-He Chun  （Remarks:Some long tables are not fully captured.)
+# Databases-He Chun  （Remarks:Some long tables are not fully captured from datagrip.)
 # Week [3]
 ### Assignment 2
 #2.1
