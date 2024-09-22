@@ -1,4 +1,4 @@
-# Databases-He Chun
+# Databases-He Chun  （Remarks:Some long tables are not fully captured.)
 # Week [3]
 ### Assignment 2
 #2.1
