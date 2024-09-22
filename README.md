@@ -141,7 +141,8 @@ select country.name as "country name", airport.name as "airport name"
 from country
 inner join airport on airport.iso_country = country.iso_country
 where country.name = "Finland" and scheduled_service = "yes";
-![4 1](https://github.com/user-attachments/assets/c4638469-659c-4d0a-b152-d06e9e9976bc)
+![4 1](https://github.com/user-attachments/assets/5f402cac-a6e9-4765-ae0f-736b1bb3799e)
+
 
 #4.2
 select screen_name, airport.name
@@ -303,6 +304,7 @@ select * from game;
 #7.3
 delete from goal_reached;
 select * from goal_reached;
+![7 3](https://github.com/user-attachments/assets/af6699dd-d757-4a4f-bc9f-dba35badbafd)
 
 #7.4
 delete from game;
